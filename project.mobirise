@@ -65,7 +65,13 @@
     "siteUrl": "undefined",
     "uniqCompNum": 28,
     "versionPublish": "4.12.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
